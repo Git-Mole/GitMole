@@ -1,4 +1,4 @@
 # GitMole
 
-Git Mole gives indespensable insights into your Git repositories
+Git Mole gives indispensable insights into your Git repositories
 https://www.gitmole.com
